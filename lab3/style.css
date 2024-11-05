@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     align-items: center;
-    background-color: #6a31cb;
+    background-color: #cb7b31;
     display: flex;
     min-height: 100vh; /* Adjusted to use min-height for better adaptability */
     margin: 0;    
